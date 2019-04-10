@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "LabSega",
+    "owner": "Jesus Botello"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "SEGA",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Jose Alberto Cardenas"
+  }
+}
